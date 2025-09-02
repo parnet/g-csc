@@ -2,10 +2,6 @@ git submodule update --init --recursive
 mkdir build
 cd build
 cmake ..
-cmake -DUSE_JSON=ON
-cmake -DConvectionDiffusion=ON
-cmake -DLimex=ON
-cmake -DSmallStrainMechanics=ON
-cmake -DPoroelasticity=ON
+cmake -DUSE_JSON=ON -DConvectionDiffusion=ON -DLimex=ON -DSmallStrainMechanics=ON -DPoroelasticity=ON .
 make -j4
 cd ..
