@@ -1,0 +1,15 @@
+[submodule "ugcore"]
+	path = ugcore
+	url = https://github.com/UG4/ugcore.git
+[submodule "apps/Examples"]
+	path = apps/Examples
+	url = https://github.com/UG4/app_Examples.git
+[submodule "externals/BoostForUG4"]
+	path = externals/BoostForUG4
+	url = https://github.com/UG4/external_BoostForUG4.git
+[submodule "externals/JSONForUG4"]
+	path = externals/JSONForUG4
+	url = https://github.com/UG4/external_JSON.git
+[submodule "plugins/ConvectionDiffusion"]
+	path = plugins/ConvectionDiffusion
+	url = https://github.com/UG4/plugin_ConvectionDiffusion.git
