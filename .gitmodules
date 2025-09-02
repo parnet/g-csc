@@ -13,3 +13,15 @@
 [submodule "plugins/ConvectionDiffusion"]
 	path = plugins/ConvectionDiffusion
 	url = https://github.com/UG4/plugin_ConvectionDiffusion.git
+[submodule "plugins/Limex"]
+	path = plugins/Limex
+	url = https://github.com/UG4/plugin_Limex.git
+[submodule "plugins/SmallStrainMechanics"]
+	path = plugins/SmallStrainMechanics
+	url = https://github.com/UG4/plugin_SmallStrainMechanics.git
+[submodule "apps/poroelasticity"]
+	path = apps/poroelasticity
+	url = https://github.com/UG4/app_poroelasticity.git
+[submodule "plugins/Poroelasticity"]
+	path = plugins/Poroelasticity
+	url = https://github.com/UG4/plugin_Poroelasticity.git
